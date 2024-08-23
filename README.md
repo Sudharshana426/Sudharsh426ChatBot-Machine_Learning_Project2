@@ -23,7 +23,7 @@ Follow these steps to get the chatbot running on your local machine:
 Clone the Repository:
 
 Copy code
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Sudharshana426/Sudharsh426ChatBot-Machine_Learning_Project2.git
 
 Install Dependencies:
 
